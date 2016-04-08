@@ -1,0 +1,8 @@
+nav a:hover {
+  color: red;
+  background-color: blue;
+}
+
+nav a:active {
+  padding: 0 5px;
+}
